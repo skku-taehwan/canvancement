@@ -2,8 +2,8 @@
 // @name        QuizWiz : Speed Enhancements
 // @namespace   https://github.com/jamesjonesmath/canvancement
 // @description Regrading and speed enhancements for Canvas quizzes
-// @include     https://*.instructure.com/courses/*/gradebook/speed_grader?*
-// @include     https://*.instructure.com/courses/*/quizzes/*/history?*
+// @include     https://canvas.skku.edu/courses/*/gradebook/speed_grader?*
+// @include     https://canvas.skku.edu/courses/*/quizzes/*/history?*
 // @noframes
 // @version     6
 // @grant       none
